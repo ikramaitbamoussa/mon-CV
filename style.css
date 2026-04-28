@@ -1,0 +1,26 @@
+h1{
+     font-family: 'Roboto', Arial, sans-serif;
+    color:#4d7dae;
+    font-size:60px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+p{
+    font-family:Arial;
+    font-weight:300;
+}
+ h2 {
+            color: #3498db;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+            }
+.section {
+            margin-bottom: 20px;
+        }
+  ul {
+            padding-left: 20px;
+        }
+.info {
+            color: gray;
+            font-size: 14px;
+        }
